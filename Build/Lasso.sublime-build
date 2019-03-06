@@ -6,7 +6,7 @@
         {
             "target": "exec",
             "name": "Run",
-            "shell_cmd": "/usr/bin/lasso9 \"$file\""
+            "shell_cmd": "lasso9 \"$file\""
         }
     ]
 }
